@@ -1,1 +1,2 @@
 Mes premières notes Git
+Idée: pratiquer Git chaque jour
