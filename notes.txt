@@ -1,3 +1,4 @@
 Mes premières notes Git
 Idée: pratiquer Git chaque jour
 Version differente - main321
+new line too
